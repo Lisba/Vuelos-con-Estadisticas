@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1576356540 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\sistema_control_vuelos\consultas.c
+	"Consultas.h"
+
+1578346265 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\sistema_control_vuelos\consultas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Lisba_libreria.h"
+	"Piloto.h"
+	"Vuelo.h"
+	"Destino.h"
+
+1576350909 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\sistema_control_vuelos\lisba_utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578346264 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\sistema_control_vuelos\piloto.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Lisba_libreria.h"
+
+1578346265 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\sistema_control_vuelos\vuelo.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Lisba_libreria.h"
+	"Piloto.h"
+	"Destino.h"
+
+1578346264 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\sistema_control_vuelos\destino.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Lisba_libreria.h"
+
+1576350909 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\sistema_control_vuelos\destino.c
+	"Destino.h"
+
+1576350909 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\sistema_control_vuelos\lisba_utn.c
+	"lisba_utn.h"
+
+1578346265 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\sistema_control_vuelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Lisba_libreria.h"
+	"Piloto.h"
+	"Vuelo.h"
+	"Destino.h"
+	"Consultas.h"
+
+1576350909 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\sistema_control_vuelos\piloto.c
+	"Piloto.h"
+
+1576350909 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\sistema_control_vuelos\vuelo.c
+	"Vuelo.h"
+
+1578345956 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\sistema_control_vuelos\lisba_libreria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578345956 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\sistema_control_vuelos\lisba_libreria.c
+	"Lisba_libreria.h"
+
+1576356540 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\vuelos-con-estadisticas\consultas.c
+	"Consultas.h"
+
+1578346265 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\vuelos-con-estadisticas\consultas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Lisba_libreria.h"
+	"Piloto.h"
+	"Vuelo.h"
+	"Destino.h"
+
+1578345956 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\vuelos-con-estadisticas\lisba_libreria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1578346264 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\vuelos-con-estadisticas\piloto.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Lisba_libreria.h"
+
+1578346265 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\vuelos-con-estadisticas\vuelo.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Lisba_libreria.h"
+	"Piloto.h"
+	"Destino.h"
+
+1578346264 c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\vuelos-con-estadisticas\destino.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Lisba_libreria.h"
+
+1576350909 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\vuelos-con-estadisticas\destino.c
+	"Destino.h"
+
+1578345956 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\vuelos-con-estadisticas\lisba_libreria.c
+	"Lisba_libreria.h"
+
+1578347154 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\vuelos-con-estadisticas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Lisba_libreria.h"
+	"Piloto.h"
+	"Vuelo.h"
+	"Destino.h"
+	"Consultas.h"
+
+1576350909 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\vuelos-con-estadisticas\piloto.c
+	"Piloto.h"
+
+1576350909 source:c:\users\usuario\documents\sistemas-utn\1er cuatrimestre\practicas\vuelos-con-estadisticas\vuelo.c
+	"Vuelo.h"
+
